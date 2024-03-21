@@ -29,3 +29,5 @@ next add oidc configurations in kubeconfig file as below
 https://developer.okta.com/blog/2021/11/08/k8s-api-server-oidc#why-secure-the-api-server
 
 https://jameswestall.com/2021/03/19/integrating-kubernetes-with-okta-for-user-rbac/
+
+https://medium.com/@int128/kubectl-with-openid-connect-43120b451672
